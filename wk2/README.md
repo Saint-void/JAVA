@@ -9,7 +9,7 @@ The purpose of developing this software is to gain hands-on experience structuri
 * Managing dynamic lists of objects using Java's `ArrayList`.
 * Building a resilient CLI menu loop with input validation and `try-catch` exception handling to prevent runtime crashes from invalid user entries.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video] https://youtu.be/chYD_zflyoo
 
 # Development Environment
 
